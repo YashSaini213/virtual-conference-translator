@@ -56,7 +56,7 @@ backend/
 - **summaries**: AI-generated summaries and key points
 - **language_preferences**: User language settings
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - Functional components with hooks
@@ -78,7 +78,7 @@ backend/
 - **Modular Agents** - Separate services for different AI tasks
 - **Context Awareness** - Maintains conversation context for better results
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - **Node.js 18+**
 - **PostgreSQL 13+**
@@ -86,7 +86,7 @@ backend/
 - **Google Gemini API Key** (for AI features)
 - **Git**
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone and Setup
 ```bash
@@ -136,7 +136,7 @@ npm start
 - **Backend API**: http://localhost:5000
 - **API Health Check**: http://localhost:5000/api/health
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 ### Build and Run
 ```bash
@@ -175,7 +175,7 @@ volumes:
   postgres_data:
 ```
 
-## 🔧 API Documentation
+##  API Documentation
 
 ### Authentication Endpoints
 - `POST /api/auth/login` - User login
